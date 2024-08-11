@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Java Programming 
 - 💞️ I’m looking to collaborate on Tech companies
-- 📫 How to reach me Linkedin
+- 📫 How to reach me Linkedin (https://www.linkedin.com/in/nushrath-fathimam-b329a9312)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
